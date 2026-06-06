@@ -3,11 +3,6 @@
 ## Overview
 This repository contains a smart, automated receipt template built in Microsoft Excel, along with a screen recording demonstration. It is designed to make billing and financial documentation quick, accurate, and professional.
 
-## 🎥 Video Demonstration
-*(Upload your video to the repository or YouTube, and place the link here. For example: [Click here to watch the demo](link_to_video.mp4))*
-
-The demo video shows how the template works in real-time. Watch as changing the number of items or increasing the tax rate from 8% to 10% automatically updates the subtotal, tax amount, and the final grand total.
-
 ## ✨ Key Features
 * **Automated Calculations:** Uses built-in Excel formulas to instantly calculate line-item totals based on quantity and unit price.
 * **Dynamic Tax Rates:** Easily adjust the tax percentage, and the sheet will recalculate the entire bill automatically.
